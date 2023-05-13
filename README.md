@@ -9,7 +9,7 @@ https://github.com/gw-moore/pyfredapi
 2. 申请 api: https://fredaccount.stlouisfed.org/apikeys
 3. 在同一个目录里创建 .env 文件, 里面添加: api_key="你的 API"
 4. 运行相应文件即可, 最新数据在第四个代码块(图表下方)
-
+---
 - ngdp: Gross Domestic Product
 - rgdp: Real Gross Domestic Product
 - cpi: Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
