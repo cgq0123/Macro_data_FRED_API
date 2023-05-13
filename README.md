@@ -4,7 +4,7 @@ https://github.com/gw-moore/pyfredapi
 2. obtain api from: https://fredaccount.stlouisfed.org/apikeys
 3. create .env in the same repo, add api_key="YOUR API" to the first line
 4. run corresponding file, latest data is in the 4th code block (below the graphs)
-
+--- 
 1. 安装 pip install pyfredapi
 2. 申请 api: https://fredaccount.stlouisfed.org/apikeys
 3. 在同一个目录里创建 .env 文件, 里面添加: api_key="你的 API"
